@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @mercpls
+ - Hi I'm Marcus Lee! React, Svelte, React Native, CSS, Less, Scss, Php/Laravel, Python, AHK, Powershell, Windows and Linux Server Administrator (WinServ, Redhat) and many more!
