@@ -58,7 +58,7 @@ mindmap
 
 ### 📈 Professional Experience
 
-**Software Engineer (Contract) | Studio Management Platform**
+**Software Engineer | Studio Management Platform**
 *Oct 2023 - Present*
 
 *   Developing a comprehensive business management dashboard for tattoo studios to manage clients, create PDF invoices, track payments, and showcase artist portfolios.
@@ -72,7 +72,7 @@ mindmap
 *   Built and launched a proprietary LLM implementation, fine-tuned for a specific online community.
 *   **Key Tech:** Remix Run, React Native, Django, FastAPI, Generative AI Models, LLMs, Tailwind.
 
-**Software Engineer (Contract) | Niche E-commerce Platform**
+**Software Engineer | Niche E-commerce Platform**
 *Sep 2021 - Sep 2022*
 
 *   Converted a client's Angular Ionic mobile application for a peer-to-peer marketplace to a modern React Native Expo stack, improving performance and developer experience.
