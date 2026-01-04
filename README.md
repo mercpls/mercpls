@@ -6,36 +6,6 @@
 
 ---
 
-### 🛠️ Core Competencies
-
-```mermaid
-mindmap
-  root((Core Expertise))
-    Full-Stack Engineering
-      Mobile Development
-        (Expo & React Native)
-      Modern Web Frameworks
-        (Next & Remix)
-      Backend & API Architecture
-        (Python: FastAPI, Django, Flask)
-      Legacy System Modernization
-    AI Research & Engineering
-      Proprietary Generative Models
-        (Text-to-Image)
-      LLM Fine-Tuning & Deployment
-      ML Infrastructure & Optimization
-    Infrastructure & DevOps
-      Distributed Virtualization
-        (VMware vSphere @ 20+ Sites)
-      Multi-Cloud Architecture
-        (AWS, GCP, Azure)
-      Enterprise System Administration
-        (Advanced Windows Server & AD)
-      Complex Network Management
-```
-
----
-
 ### 💻 Tech I'm actively supporting
 
 | Frontend Development | Backend Development | AI / Machine Learning |
